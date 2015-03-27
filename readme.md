@@ -1,6 +1,6 @@
 # Awesome Angular2
 
-A list of awesome angular2 resources.
+A list of awesome Angular2 resources.
 
 ### Example/Starter Repositories
 
