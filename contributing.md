@@ -1,5 +1,5 @@
 # Contributing
 
-Resources are listed in alphabetical order under each subheader, please place any new items in the appropriate place in the list when submitting pull requests.
+Resources are listed in alphabetical order under each sub-header, please place any new items in the appropriate place in the list when submitting pull requests.
 
-New subheaders should be placed at the botton of the list.
+New sub-headers should be placed at the bottom of the list.
