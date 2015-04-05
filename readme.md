@@ -6,10 +6,10 @@ A list of awesome Angular2 resources.
 
 * [angular2-playground](https://github.com/SekibOmazic/angular2-playground)
 * [Axponents](https://github.com/dylanb/Axponents)
-* [ng2do](https://github.com/davideast/ng2do)
 * [ng2-play](https://github.com/pkozlowski-opensource/ng2-play)
-* [ngconf2015demo](https://github.com/Microsoft/ngconf2015demo)
 * [ng2-random-user](https://github.com/kentcdodds/ng2-random-user/)
+* [ng2do](https://github.com/davideast/ng2do)
+* [ngconf2015demo](https://github.com/Microsoft/ngconf2015demo)
 
 ### Generators
 
