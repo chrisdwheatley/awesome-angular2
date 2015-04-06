@@ -11,6 +11,10 @@ A list of awesome Angular2 resources.
 * [ng2do](https://github.com/davideast/ng2do)
 * [ngconf2015demo](https://github.com/Microsoft/ngconf2015demo)
 
+### Guides
+
+* [Official Guide](https://angular.io/docs/js/latest/quickstart.html)
+
 ### Generators
 
 * [Slush](https://github.com/TheVelourFog/slush-angular2)
