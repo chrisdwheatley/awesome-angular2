@@ -14,7 +14,11 @@ A list of awesome Angular2 resources.
 
 ### Guides
 
-* [Official Guide](https://angular.io/docs/js/latest/quickstart.html)
+* [Official getting started guide](https://angular.io/docs/js/latest/quickstart.html)
+
+### Articles
+
+* [AngularJS 2 - First Impressions](http://blog.mgechev.com/2015/04/06/angular2-first-impressions/)
 
 ### Generators
 
