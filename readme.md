@@ -1,6 +1,6 @@
 # Awesome Angular2
 
-A list of awesome Angular2 resources.
+A list of awesome [Angular2](https://angular.io/) resources.
 
 ### Example/Starter Repositories
 
