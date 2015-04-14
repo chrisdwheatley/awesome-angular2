@@ -23,6 +23,8 @@ A list of awesome [Angular2](https://angular.io/) resources.
 * [Angular 2 Series: Introduction](http://blog.ionic.io/angular-2-series-introduction/)
 * [Angular 2 Series: Components](http://blog.ionic.io/angular-2-series-components/)
 * [Change Detection in Angular 2](http://victorsavkin.com/post/110170125256/change-detection-in-angular-2)
+* [Developing a tabs component in Angular 2](http://blog.thoughtram.io/angular/2015/04/09/developing-a-tabs-component-in-angular-2.html)
+* [Developing a zippy component in Angular 2](http://blog.thoughtram.io/angular/2015/03/27/building-a-zippy-component-in-angular-2.html)
 * [Two Phases of Angular 2 Applications](http://victorsavkin.com/post/114168430846/two-phases-of-angular-2-applications)
 
 ### Generators
