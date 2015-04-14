@@ -11,6 +11,7 @@ A list of awesome [Angular2](https://angular.io/) resources.
 * [ng2-random-user](https://github.com/kentcdodds/ng2-random-user/)
 * [ng2do](https://github.com/davideast/ng2do)
 * [ngconf2015demo](https://github.com/Microsoft/ngconf2015demo)
+* [angular2-tuber](https://github.com/alexhawkins/angular2-tuber)
 
 ### Guides
 
