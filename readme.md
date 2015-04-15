@@ -19,7 +19,7 @@ A list of awesome [Angular2](https://angular.io/) resources.
 
 ### Articles
 
-* [AngularJS 2 - First Impressions](http://blog.mgechev.com/2015/04/06/angular2-first-impressions/)
+* [Angular 2 - First Impressions](http://blog.mgechev.com/2015/04/06/angular2-first-impressions/)
 * [Angular 2 Series: Introduction](http://blog.ionic.io/angular-2-series-introduction/)
 * [Angular 2 Series: Components](http://blog.ionic.io/angular-2-series-components/)
 * [Change Detection in Angular 2](http://victorsavkin.com/post/110170125256/change-detection-in-angular-2)
