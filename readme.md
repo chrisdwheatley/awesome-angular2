@@ -16,6 +16,7 @@ A list of awesome [Angular2](https://angular.io/) resources.
 ### Guides
 
 * [Official getting started guide](https://angular.io/docs/js/latest/quickstart.html)
+* [Official design documentation](https://drive.google.com/drive/folders/0B7Ovm8bUYiUDR29iSkEyMk5pVUk)
 
 ### Articles
 
