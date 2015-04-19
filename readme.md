@@ -30,6 +30,10 @@ A list of awesome [Angular2](https://angular.io/) resources.
 * [Thoughts on Angular 2 after ng-conf 2015 (and some whisky)](https://medium.com/@aripalo/thoughts-on-angular-2-after-ng-conf-2015-and-some-whisky-8392c260095c)
 * [Two Phases of Angular 2 Applications](http://victorsavkin.com/post/114168430846/two-phases-of-angular-2-applications)
 
+### Videos
+
+* [Angular 2: Template Syntax](https://egghead.io/lessons/angularjs-angular-2-template-syntax)
+
 ### Generators
 
 * [Slush](https://github.com/TheVelourFog/slush-angular2)
