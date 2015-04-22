@@ -41,5 +41,6 @@ A list of awesome [Angular2](https://angular.io/) resources.
 
 ### Online Editor Examples
 
+* [Single Built File Plunker](http://plnkr.co/edit/cPEKMOufrVhyGbfeHLnX?p=preview)
 * [Plunker #1](http://plnkr.co/edit/QZ6c6cRnvOyQ71FkowZO?p=preview)
 * [Plunker #2](http://plnkr.co/edit/mbdC6a?p=preview)
