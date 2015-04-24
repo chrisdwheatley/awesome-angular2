@@ -2,23 +2,23 @@
 
 A list of awesome [Angular2](https://angular.io/) resources.
 
+### Guides/Documentation
+
+* [Official design documentation](https://drive.google.com/drive/folders/0B7Ovm8bUYiUDR29iSkEyMk5pVUk)
+* [Official getting started guide](https://angular.io/docs/js/latest/quickstart.html)
+
 ### Example/Starter Repositories
 
 * [angular2-playground](https://github.com/SekibOmazic/angular2-playground)
 * [angular2-sandbox](https://github.com/gionkunz/angular2-sandbox)
 * [angular2-seed](https://github.com/mgechev/angular2-seed)
+* [angular2-tuber](https://github.com/alexhawkins/angular2-tuber)
 * [Axponents](https://github.com/dylanb/Axponents)
 * [babel-angular2-app](https://github.com/shuhei/babel-angular2-app)
 * [ng2-play](https://github.com/pkozlowski-opensource/ng2-play)
 * [ng2-random-user](https://github.com/kentcdodds/ng2-random-user/)
 * [ng2do](https://github.com/davideast/ng2do)
 * [ngconf2015demo](https://github.com/Microsoft/ngconf2015demo)
-* [angular2-tuber](https://github.com/alexhawkins/angular2-tuber)
-
-### Guides
-
-* [Official getting started guide](https://angular.io/docs/js/latest/quickstart.html)
-* [Official design documentation](https://drive.google.com/drive/folders/0B7Ovm8bUYiUDR29iSkEyMk5pVUk)
 
 ### Articles
 
@@ -42,6 +42,7 @@ A list of awesome [Angular2](https://angular.io/) resources.
 
 ### Online Editor Examples
 
-* [Single Built File Plunker](http://plnkr.co/edit/cPEKMOufrVhyGbfeHLnX?p=preview)
 * [Plunker #1](http://plnkr.co/edit/QZ6c6cRnvOyQ71FkowZO?p=preview)
 * [Plunker #2](http://plnkr.co/edit/mbdC6a?p=preview)
+* [Single Built File Plunker](http://plnkr.co/edit/cPEKMOufrVhyGbfeHLnX?p=preview)
+
