@@ -6,6 +6,7 @@ A list of awesome [Angular2](https://angular.io/) resources.
 
 * [Official design documentation](https://drive.google.com/drive/folders/0B7Ovm8bUYiUDR29iSkEyMk5pVUk)
 * [Official getting started guide](https://angular.io/docs/js/latest/quickstart.html)
+* [Annotated core source file](http://genius.it/github.com/angular/angular/blob/ada1e642c57f19ad5cecde57db1aca1727bf2325/modules/angular2/src/core/application.js)
 
 ### Example/Starter Repositories
 
