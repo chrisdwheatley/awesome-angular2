@@ -10,6 +10,7 @@ A list of awesome [Angular2](https://angular.io/) resources.
 
 ### Example/Starter Repositories
 
+* [angular2-authentication-sample](https://github.com/auth0/angular2-authentication-sample)
 * [angular2-playground](https://github.com/SekibOmazic/angular2-playground)
 * [angular2-sandbox](https://github.com/gionkunz/angular2-sandbox)
 * [angular2-seed](https://github.com/mgechev/angular2-seed)
