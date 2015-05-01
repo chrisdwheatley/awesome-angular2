@@ -11,6 +11,7 @@ A list of awesome [Angular2](https://angular.io/) resources.
 ### Example/Starter Repositories
 
 * [angular2-playground](https://github.com/SekibOmazic/angular2-playground)
+* [angular-rpi](https://github.com/mrzepinski/angular-rpi)
 * [angular2-sandbox](https://github.com/gionkunz/angular2-sandbox)
 * [angular2-seed](https://github.com/mgechev/angular2-seed)
 * [angular2-tuber](https://github.com/alexhawkins/angular2-tuber)
