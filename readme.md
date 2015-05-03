@@ -15,6 +15,7 @@ A list of awesome [Angular2](https://angular.io/) resources.
 * [angular2-sandbox](https://github.com/gionkunz/angular2-sandbox)
 * [angular2-seed](https://github.com/mgechev/angular2-seed)
 * [angular2-tuber](https://github.com/alexhawkins/angular2-tuber)
+* [angular-rpi](https://github.com/mrzepinski/angular-rpi)
 * [Axponents](https://github.com/dylanb/Axponents)
 * [babel-angular2-app](https://github.com/shuhei/babel-angular2-app)
 * [ng2-play](https://github.com/pkozlowski-opensource/ng2-play)
