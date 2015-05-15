@@ -39,6 +39,7 @@ A list of awesome [Angular2](https://angular.io/) resources.
 ### Videos
 
 * [Angular 2: Template Syntax](https://egghead.io/lessons/angularjs-angular-2-template-syntax)
+* [Getting started with Angular 2 developer preview](https://www.youtube.com/watch?v=HmWm21cCAXM)
 
 ### Generators
 
